@@ -1,0 +1,50 @@
+[
+   {
+      "img_link":  "",
+      "title": "Beef Burger" ,
+      "desc": "" ,
+      "ingredients": [  "bun ", "tomato ", "lettuce "] ,
+      "directions":  "cook burger, chop lettuce, done! ",
+      "type":  "lunch/dinner "
+   },
+   {
+      "img_link": "" ,
+      "title":  "Chicken Alfredo",
+      "desc":"" ,
+      "ingredients": ["Noodles ", "Chicken ", "Sauce"],
+      "directions":  "Cook noodles, cook chicken, mix with sauce.",
+      "type":  "lunch/dinner"
+   },
+   {
+      "img_link": "",
+      "title":  "Fruit Smoothie",
+      "desc": "" ,
+      "ingredients": ["favorite fruit", "favorite juice or milk"],
+      "directions":  "Add frozen fruit and liquid of choice to a blender and mix.",
+      "type":  "snack "
+   },
+   {
+      "img_link": "",
+      "title":  "Avocado Toast ",
+      "desc": "" ,
+      "ingredients": ["Bread ", "avocado ", "egg"],
+      "directions":  "Toast your bread, spread some avocado, add fried egg.",
+      "type":  "breakfast "
+   },
+   {
+      "img_link":"" ,
+      "title":  "Oatmeal ",
+      "desc": "" ,
+      "ingredients": ["Oats ", "milk ", "toppings"],
+      "directions":  "Warm up milk, add oats, add favorite toppings.",
+      "type":  "breakfast "
+   },
+   {
+      "img_link": "",
+      "title":  "Banana Split",
+      "desc": "" ,
+      "ingredients": ["banana", "ice cream", "toppings"],
+      "directions":  "Cut banana in half, add ice cream in the middle, add toppings.",
+      "type":  "snack"
+   }
+   ]
