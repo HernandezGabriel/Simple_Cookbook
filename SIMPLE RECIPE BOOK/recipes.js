@@ -1,3 +1,4 @@
+
 var DATA = [
    {
       "img_link":  "",
@@ -5,7 +6,7 @@ var DATA = [
       "desc": "" ,
       "ingredients": [  "bun ", "tomato ", "lettuce "] ,
       "directions":  "cook burger, chop lettuce, done! ",
-      "type":  "lunch/dinner "
+      "type":  "lunch/dinner"
    },
    {
       "img_link": "" ,
@@ -21,7 +22,7 @@ var DATA = [
       "desc": "" ,
       "ingredients": ["favorite fruit", "favorite juice or milk"],
       "directions":  "Add frozen fruit and liquid of choice to a blender and mix.",
-      "type":  "snack "
+      "type":  "snack"
    },
    {
       "img_link": "",
@@ -29,7 +30,7 @@ var DATA = [
       "desc": "" ,
       "ingredients": ["Bread ", "avocado ", "egg"],
       "directions":  "Toast your bread, spread some avocado, add fried egg.",
-      "type":  "breakfast "
+      "type":  "breakfast"
    },
    {
       "img_link":"" ,
@@ -37,7 +38,7 @@ var DATA = [
       "desc": "" ,
       "ingredients": ["Oats ", "milk ", "toppings"],
       "directions":  "Warm up milk, add oats, add favorite toppings.",
-      "type":  "breakfast "
+      "type" : "breakfast"
    },
    {
       "img_link": "",
@@ -48,3 +49,4 @@ var DATA = [
       "type":  "snack"
    }
    ];
+
