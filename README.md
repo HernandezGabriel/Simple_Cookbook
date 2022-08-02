@@ -5,7 +5,8 @@ Open folder with VScode & Run with live server :)
 
 Loads recipes from recipes.js
 
-current state:
+
+Work In Progress
 ![381ea1eb-eb08-4f5b-9e64-6be6373518a6](https://user-images.githubusercontent.com/37569303/181682547-b4578c56-8bc6-45de-84a4-2cef466feecd.png)
 
 
